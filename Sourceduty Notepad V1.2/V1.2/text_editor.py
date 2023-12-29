@@ -10,7 +10,7 @@ from templates import TEMPLATES
 class TextEditor:
     def __init__(self, root):
         self.root = root
-        self.root.title("Sourceduty Notepad V1.0")
+        self.root.title("Sourceduty Notepad V1.2")
         self.create_menu()
         self.create_widgets()
         self.mode = "Note Mode" 
