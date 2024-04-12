@@ -1,3 +1,6 @@
+# Sourceduty Notepad V2.4
+# Copyright (C) 2024, Sourceduty 
+
 def new_challenge(self):
     challenges = [
         "Write a short story about a character facing their greatest fear.",
