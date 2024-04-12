@@ -1,4 +1,4 @@
-# Sourceduty Notepad V2.4
+# Sourceduty Notepad V2.3
 # Copyright (C) 2024, Sourceduty 
 
 def new_challenge(self):
