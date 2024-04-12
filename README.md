@@ -1,8 +1,8 @@
-![Sourceduty Notepad](https://github.com/sourceduty/Notepad/assets/123030236/764a8833-0658-43f0-90eb-cb786f433644)
-
 🗒️ Custom notepad developed by Sourceduty.
 
-![V2 3](https://github.com/sourceduty/Notepad/assets/123030236/32dc76c8-7910-458e-a93b-cb62ab76f42a)
+![Sourceduty Notepad](https://github.com/sourceduty/Notepad/assets/123030236/764a8833-0658-43f0-90eb-cb786f433644)
+
+![V2 3](https://github.com/sourceduty/Notepad/assets/123030236/6e6d51e7-9f1b-467a-bd8c-6edce2c808b8)
 
 #
 ### Related Links
