@@ -79,7 +79,7 @@ class TextEditor:
         self.update_line_numbers()
         self.update_status()
 
-    def update_line_numbers(self, event=None):
+    def update_line_numbers(self):
         self.line_number_bar.config(state='normal')
         self.line_number_bar.delete('1.0', 'end')
         lines = self.txt_edit.get(1.0, "end-1c").count('\n') + 1
@@ -154,7 +154,7 @@ class TextEditor:
 
     def show_about(self):
         about_text = (
-            "Sourceduty Notepad V1.0\n"
+            "Sourceduty Notepad V2.3\n"
             "\n"
             f"Copyright (C) 2024, Sourceduty - All Rights Reserved.\n"
             "\n"
@@ -189,13 +189,6 @@ class TextEditor:
         lines = text.split("\n")
         line_numbers = "\n".join(str(i) for i in range(1, len(lines) + 1))
         return line_numbers
-
-    def update_line_numbers(self):
-        line_numbers = self.get_line_numbers()
-        self.line_number_bar.config(state='normal')
-        self.line_number_bar.delete('1.0', 'end')
-        self.line_number_bar.insert('1.0', line_numbers)
-        self.line_number_bar.config(state='disabled')
 
     def update_status(self, event=None):
         words = len(self.txt_edit.get(1.0, 'end-1c').split())
