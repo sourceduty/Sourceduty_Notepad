@@ -2,5 +2,10 @@
 
 🗒️ Custom notepad developed by Sourceduty.
 
+#
+### Related Links
+
+[Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
