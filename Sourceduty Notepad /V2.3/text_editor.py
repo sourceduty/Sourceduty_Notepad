@@ -68,7 +68,7 @@ class TextEditor:
         self.txt_edit.bind("<MouseWheel>", self.on_mouse_wheel)
         self.line_number_bar.bind("<MouseWheel>", self.on_mouse_wheel)
         self.txt_edit.bind("<Key>", self.on_key_event)
-        self.txt_edit.bind("<Configure>", self.update_line_numbers)
+        self.txt_edit.bind("<Configure>", lambda event: self.update_line_numbers())
 
     def on_mouse_wheel(self, event):
         self.line_number_bar.yview_scroll(-1*(event.delta//120), "units")
@@ -154,7 +154,7 @@ class TextEditor:
 
     def show_about(self):
         about_text = (
-            "Sourceduty Notepad V2.3\n"
+            "Sourceduty Notepad V1.0\n"
             "\n"
             f"Copyright (C) 2024, Sourceduty - All Rights Reserved.\n"
             "\n"
