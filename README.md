@@ -6,7 +6,7 @@
 
 ***
 
-![V2 3](https://github.com/sourceduty/Notepad/assets/123030236/6e6d51e7-9f1b-467a-bd8c-6edce2c808b8)
+![V2 4](https://github.com/sourceduty/Notepad/assets/123030236/47ba27f8-3b30-4be8-b285-5ecc5d6d5b1f)
 
 #
 ### Related Links
