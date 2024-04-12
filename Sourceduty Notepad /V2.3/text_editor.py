@@ -154,7 +154,7 @@ class TextEditor:
 
     def show_about(self):
         about_text = (
-            "Sourceduty Notepad V1.0\n"
+            "Sourceduty Notepad V2.3\n"
             "\n"
             f"Copyright (C) 2024, Sourceduty - All Rights Reserved.\n"
             "\n"
