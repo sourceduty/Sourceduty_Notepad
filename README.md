@@ -2,3 +2,5 @@
 
 🗒️ Custom notepad developed by Sourceduty.
 
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
