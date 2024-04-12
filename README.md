@@ -2,6 +2,8 @@
 
 🗒️ Custom notepad developed by Sourceduty.
 
+![V2 3](https://github.com/sourceduty/Notepad/assets/123030236/32dc76c8-7910-458e-a93b-cb62ab76f42a)
+
 #
 ### Related Links
 
