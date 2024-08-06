@@ -117,7 +117,7 @@ class TextEditor:
         self.timestamp_button = tk.Button(self.footer_frame, text="Insert Timestamp", command=self.insert_timestamp, bg="black", fg="white")
         self.timestamp_button.pack(side="right", padx=0)
 
-        self.toolbar = tk.Frame(self.root, bg="lightgrey")
+        self.toolbar = tk.Frame(self.root, bg="black")
         self.toolbar.pack(side="top", fill="x")
 
     def set_default_description(self):
@@ -255,7 +255,7 @@ class TextEditor:
     def light_mode(self):
         self.root.config(bg="white")
         self.text.config(bg="white", fg="black")
-        self.footer_frame.config(bg="white")
+        self.footer_frame.config(bg="black")
         self.dynamic_footer.config(bg="black", fg="white")
         self.toolbar.config(bg="black")
 
