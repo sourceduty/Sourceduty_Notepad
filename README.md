@@ -85,7 +85,8 @@ Format Conversion Tables
 #
 ### Version Evolution Overview
 
-Overview of Available Versions:
+<details><summary>Overview of Available Versions</summary>
+<br>
 
 1. Version 1.0:
    
@@ -175,6 +176,9 @@ Inferences and Conclusions:
 - Early versions focused on basic text-editing functionalities, while later versions introduced user-centric features, enhanced modularity, and a more polished user experience.
 - The shift to compiled executables and the introduction of extensive new features in later versions reflect a move towards a stable, user-friendly product ready for wider distribution.
 - The overall evolution of "Sourceduty Notepad" reflects typical software development patterns, with early versions being experimental and feature-rich, and later versions prioritizing stability, usability, and distribution readiness.
+
+<br>
+</details>
 
 #
 
