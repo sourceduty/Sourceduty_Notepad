@@ -25,6 +25,7 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 
 <br>
 
+```
 +----------------+----------------+----------------+----------------+----------------+----------------+
 | Input Format   | Output: TXT    | Output: MD     | Output: DOCX   | Output: PDF    | Output: CSV    |
 +----------------+----------------+----------------+----------------+----------------+----------------+
@@ -42,7 +43,7 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 +----------------+----------------+----------------+----------------+----------------+----------------+
 | JSON           | Supported      | Supported      | Supported      | Supported      | Supported      |
 +----------------+----------------+----------------+----------------+----------------+----------------+
-
+```
 
 #
 ### Version Evolution Overview
