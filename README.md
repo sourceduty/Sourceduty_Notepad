@@ -34,7 +34,7 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 
 [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 <br>
-[Insutry Notepad](https://github.com/sourceduty/Industry_Notepad)
+[Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
