@@ -24,8 +24,8 @@ The program also includes advanced text statistics and a password generator to s
 Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface and live timer functionality. The footer displays real-time updates on total time spent working on a document and the current line number, allowing users to keep track of their work sessions without interrupting their workflow. This live timer, along with the ability to export documents in multiple formats, ensures that users have all the tools they need to manage their work effectively and flexibly. Overall, Sourceduty Notepad V4.0 is a powerful text editing solution that combines ease of use with a rich set of features to meet diverse needs.
 
 <br>
-
-Format Conversion Tables
+<details><summary>Format Conversion Table</summary>
+<br>
 
 ```
 +---------------------+---------------------------------+---------------------------------+
@@ -81,6 +81,9 @@ Format Conversion Tables
 |                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
 ```
+
+<br>
+</details>
 
 #
 ### Version Evolution Overview
