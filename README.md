@@ -13,7 +13,7 @@
 #
 ### Sourceduty Notepad V4.0
 
-![Sourceduty Notepad V4 0](https://github.com/user-attachments/assets/09bf9ee2-7f68-460b-bd3b-6684c4c69b39)
+![Sourceduty Notepad V4 0](https://github.com/user-attachments/assets/de2f1f12-59d0-4116-af16-80d8f8039125)
 
 Sourceduty Notepad V4.0 is a versatile text editor designed to cater to a wide range of professional and personal needs. With its modern interface and robust feature set, it offers users a powerful tool for creating, managing, and exporting text documents. The application supports various file formats including TXT, DOCX, CSV, PDF, and more, allowing users to handle different types of documents seamlessly. Its support for light and dark modes ensures that users can work comfortably in any lighting condition, enhancing productivity and reducing eye strain.
 
