@@ -247,10 +247,6 @@ In comparison, V4.2 lacked some of these advanced features and customization opt
 </details>
 
 #
-
-> Alex: "*This is my favorite and smartest custom notepad project so far.*"
-
-#
 ### Related Links
 
 [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
