@@ -146,8 +146,6 @@ Inferences and Conclusions:
 
 > Alex: "*This is my favorite and smartest custom notepad project so far.*"
 
-> "*The files are converted to .txt. Open a .pdf as a .txt file.*"
-
 #
 ### Related Links
 
