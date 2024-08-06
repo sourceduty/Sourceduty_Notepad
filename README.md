@@ -28,44 +28,57 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 Format Conversion Tables
 
 ```
-+---------------------+---------------------------------+
-| Opened Format       | Can Convert To                  |
-+---------------------+---------------------------------+
-| .txt (Text File)    | .txt, .md, .docx, .pdf, .csv,   |
-|                     | .html, .json                    |
-+---------------------+---------------------------------+
-| .md (Markdown)      | .txt                            |
-+---------------------+---------------------------------+
-| .docx (Word)        | .txt                            |
-+---------------------+---------------------------------+
-| .pdf (PDF)          | .txt                            |
-+---------------------+---------------------------------+
-| .csv (CSV)          | .txt                            |
-+---------------------+---------------------------------+
-| .html (HTML)        | .txt                            |
-+---------------------+---------------------------------+
-| .json (JSON)        | .txt                            |
-+---------------------+---------------------------------+
-```
-
-```
 +---------------------+---------------------------------+---------------------------------+
 | Opened Format       | Converts To (Intermediate .txt) | Can Export To                  |
 +---------------------+---------------------------------+---------------------------------+
-| .txt (Text File)    | .txt                            | .txt, .md, .docx, .pdf, .csv,  |
-|                     |                                 | .html, .json                   |
+| .txt (Text File)    | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
-| .md (Markdown)      | .txt                            | .txt                           |
+| .md (Markdown)      | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
-| .docx (Word)        | .txt                            | .txt                           |
+| .docx (Word)        | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
-| .pdf (PDF)          | .txt                            | .txt                           |
+| .pdf (PDF)          | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
-| .csv (CSV)          | .txt                            | .txt                           |
+| .csv (CSV)          | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
-| .html (HTML)        | .txt                            | .txt                           |
+| .html (HTML)        | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
-| .json (JSON)        | .txt                            | .txt                           |
+| .json (JSON)        | .txt                            | .md (Markdown)                 |
+|                     |                                 | .docx (Word Document)          |
+|                     |                                 | .pdf (PDF Document)            |
+|                     |                                 | .csv (CSV File)                |
+|                     |                                 | .html (HTML File)              |
+|                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
 ```
 
