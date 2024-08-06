@@ -25,20 +25,24 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 
 <br>
 
-| Format Name       | File Extension | Supported Formats | Conversion Options |
-|-------------------|----------------|-------------------|--------------------|
-| Plain Text        | .TXT           | .DOCX             | TXT to DOCX        |
-|                   |                | .PDF              | TXT to PDF         |
-|                   |                | .CSV              | TXT to CSV         |
-| Word Document     | .DOCX          | .TXT              | DOCX to TXT        |
-|                   |                | .PDF              | DOCX to PDF        |
-|                   |                | .CSV              | DOCX to CSV        |
-| Spreadsheet       | .CSV           | .TXT              | CSV to TXT         |
-|                   |                | .DOCX             | CSV to DOCX        |
-|                   |                | .PDF              | CSV to PDF         |
-| Portable Document | .PDF           | .TXT              | PDF to TXT         |
-| Format            |                | .DOCX             | PDF to DOCX        |
-|                   |                | .CSV              | PDF to CSV         |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| Input Format   | Output: TXT    | Output: MD     | Output: DOCX   | Output: PDF    | Output: CSV    |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| TXT            | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| MD             | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| DOCX           | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| PDF            | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| CSV            | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| HTML           | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+| JSON           | Supported      | Supported      | Supported      | Supported      | Supported      |
++----------------+----------------+----------------+----------------+----------------+----------------+
+
 
 #
 ### Version Evolution Overview
