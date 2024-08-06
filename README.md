@@ -85,11 +85,10 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 <br>
 </details>
 
-#
-### Version Evolution Overview
-
 <details><summary>Overview of Available Versions</summary>
 <br>
+
+Version Evolution Overview
 
 1. Version 1.0:
    
