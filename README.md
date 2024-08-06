@@ -27,6 +27,8 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 
 > Alex: "*This is my favorite and smartest custom notepad project so far.*"
 
+> "*The files are converted to .txt. Open a PDF as a .txt file.*"
+
 #
 ### Related Links
 
