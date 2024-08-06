@@ -10,8 +10,12 @@
 
 ![V2 4](https://github.com/sourceduty/Notepad/assets/123030236/47ba27f8-3b30-4be8-b285-5ecc5d6d5b1f)
 
-#
-### Sourceduty Notepad V4.0
+***
+
+### Versions
+
+<details><summary>Sourceduty Notepad V4.0</summary>
+<br>
 
 ![Sourceduty Notepad V4 0](https://github.com/user-attachments/assets/de2f1f12-59d0-4116-af16-80d8f8039125)
 
@@ -182,9 +186,8 @@ Inferences and Conclusions:
 <br>
 </details>
 
-***
-
-### Versions
+<br>
+</details>
 
 <details><summary>Sourceduty Notepad V4.1</summary>
 <br>
