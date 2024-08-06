@@ -182,8 +182,13 @@ Inferences and Conclusions:
 <br>
 </details>
 
-#
-### Sourceduty Notepad V4.1
+***
+
+### Versions
+
+<details><summary>Sourceduty Notepad V4.1</summary>
+<br>
+
 
 ![Sourceduty Notepad V4 1](https://github.com/user-attachments/assets/9dc190bc-b8fb-4423-85eb-995d81b9fbd5)
 
@@ -195,8 +200,11 @@ Another key feature is the expanded support for various file formats, both for o
 
 Additionally, Sourceduty Notepad V4.1 introduces an Export List feature that enhances its utility for organizing and managing information. This feature allows users to sort and filter text content and then export it into a new .txt file list. This is particularly beneficial for tasks that require structured data management, such as creating lists, organizing notes, or preparing content for reports. By integrating these features into a single application, Sourceduty Notepad V4.1 offers a powerful and versatile solution for all your text editing and document management needs.
 
-#
-### Sourceduty Notepad V4.2
+<br>
+</details>
+
+<details><summary>Sourceduty Notepad V4.2</summary>
+<br>
 
 ![Sourceduty Notepad V4 2](https://github.com/user-attachments/assets/7f442be9-a324-4638-a0c0-ca227a1b75fe)
 
@@ -213,6 +221,27 @@ When comparing Sourceduty Notepad V4.2 to its previous versions, V4.1 and V4.0, 
 V4.1 built upon this foundation by introducing the ability to create custom templates, which allowed users to save frequently used document structures for easy access. It also expanded the range of supported file formats, making the program more versatile for different types of documents. Additionally, V4.1 introduced a footer displaying session time and line numbers, which provided users with useful real-time feedback as they worked on their documents.
 
 Sourceduty Notepad V4.2 takes these features even further, offering a more comprehensive set of tools for document management. The introduction of the "Open and Merge" feature allows users to combine content from multiple files seamlessly, a significant improvement for those working on complex projects. The new file comparison tool adds another layer of functionality, making it easier to review and manage document revisions. The dynamic footer has also been enhanced with a more professional look and additional functionality, such as the timestamp insertion feature. Overall, V4.2 represents a substantial upgrade from both V4.1 and V4.0, positioning it as a powerful and versatile text editor suitable for a variety of professional and personal use cases.
+
+<br>
+</details>
+
+<details><summary>Sourceduty Notepad V4.5</summary>
+<br>
+
+![Sourceduty Notepad V4 5](https://github.com/user-attachments/assets/ee78c356-7aa0-4b08-bc60-d2f12f826258)
+
+Sourceduty Notepad V4.5 is a robust text editor designed to meet a wide array of needs across different industries, including Business, Education, and Creative Writing. It introduces several enhancements and new features that improve its versatility and user experience compared to its previous version, V4.2.
+
+One of the key improvements in V4.5 is the expanded template system. Users can now access a broader range of pre-defined templates, including new ones for business processes, project planning, and creative writing outlines. This version also allows users to add and manage custom templates more easily. The templates are designed to cater to specific industry needs, making it more convenient for users to start their documents with a structured format. The new ability to delete custom templates and the updated management options provide users with greater control over their workspace.
+
+The user interface has been enhanced with the addition of Dark Mode and Light Mode options, allowing users to switch between different themes for improved readability and comfort. The inclusion of a timestamp insertion feature offers an easy way to track when content was edited or added. Furthermore, V4.5 introduces a file comparison tool that enables users to compare two text files and view their differences, a feature not present in V4.2.
+
+V4.5 also brings additional functionalities such as text statistics, which provide detailed counts of words, characters, and paragraphs. The new password generator allows users to create secure passwords, and the list exporter feature enables sorting and filtering of list content before exporting it to a text file. Another notable addition is the translation feature, which allows for text translation into English, albeit as a mock feature that could be replaced with actual translation functionality in future updates.
+
+In comparison, V4.2 lacked some of these advanced features and customization options. The earlier version did not include the Dark Mode/Light Mode switch, advanced text statistics, or the comprehensive password generator. The template system in V4.2 was also less flexible, with fewer options for customization and management. Overall, V4.5 offers a more powerful and user-friendly experience, catering to a wider range of document creation and editing needs while providing more tools for productivity and customization.
+
+<br>
+</details>
 
 #
 
