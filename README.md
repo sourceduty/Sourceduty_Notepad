@@ -29,7 +29,7 @@ Format Conversion Tables
 
 ```
 +---------------------+---------------------------------+---------------------------------+
-| Opened Format       | Converts To (Intermediate .txt) | Can Export To                  |
+| Opened Format       | Converts To .txt                | Can Export To                  |
 +---------------------+---------------------------------+---------------------------------+
 | .txt (Text File)    | .txt                            | .txt, .md (Markdown),          |
 |                     |                                 | .docx (Word Document),         |
