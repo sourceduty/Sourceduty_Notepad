@@ -10,8 +10,7 @@
 
 ![V2 4](https://github.com/sourceduty/Notepad/assets/123030236/47ba27f8-3b30-4be8-b285-5ecc5d6d5b1f)
 
-***
-
+#
 ### Versions
 
 <details><summary>Sourceduty Notepad V4.0</summary>
