@@ -25,7 +25,7 @@ Sourceduty Notepad V4.0 distinguishes itself with its intuitive user interface a
 
 <br>
 
-Format Conversion Table
+Format Conversion Tables
 
 ```
 +---------------------+---------------------------------+
