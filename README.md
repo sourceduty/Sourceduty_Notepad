@@ -12,6 +12,8 @@
 ### Related Links
 
 [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
+<br>
+[Insutry Notepad](https://github.com/sourceduty/Industry_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
