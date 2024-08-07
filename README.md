@@ -301,6 +301,8 @@ The notepad’s utility is further enhanced by its ability to insert timestamps 
 Recent updates to Sourceduty Notepad V5.8 have repaired the Text Layout dropdown submenu and improved search highlights. The repaired Text Layout submenu now allows users to switch seamlessly between different column formats, enhancing the readability and organization of their documents. The search highlight functionality has also been fixed, enabling users to effectively search for and highlight specific words or phrases within their text. This improvement makes it easier to locate important information and ensures that critical details are not overlooked. Overall, Sourceduty Notepad V5.8 is a versatile and powerful tool designed to enhance productivity and document management.
 
 <br>
+<details><summary>Sourceduty Notepad V5.8 Formats</summary>
+<br>
 
 ```
 Format Conversion Table
@@ -365,6 +367,10 @@ Format Conversion Table
 |                     |                                 | .json (JSON File)              |
 +---------------------+---------------------------------+---------------------------------+
 ```
+<br>
+</details>
+<details><summary>Sourceduty Notepad V5.8 Description</summary>
+<br>
 
 ```
 Sourceduty Notepad V5.8
@@ -437,6 +443,9 @@ Keyword Highlighting:
 Topology:
   - Convert to Topology: Format the current text into a hierarchical topological diagram.
 ```
+
+<br>
+</details>
 
 <details><summary>Sourceduty Notepad V5.8 Topology</summary>
 <br>
