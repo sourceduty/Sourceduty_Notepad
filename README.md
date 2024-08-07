@@ -285,6 +285,163 @@ The latest additions to Sourceduty Notepad V5.5 include advanced features such a
 <br>
 </details>
 
+<details><summary>Sourceduty Notepad V5.8</summary>
+<br>
+
+![Sourceduty Notepad V5 8](https://github.com/user-attachments/assets/39542061-ebd0-4eea-9240-abf53e1efe84)
+
+Sourceduty Notepad V5.8 is a comprehensive and user-friendly text editor designed to meet the diverse needs of users ranging from students to business professionals. It boasts an array of features tailored to facilitate efficient document creation, editing, and management. The notepad supports various text formatting options, allowing users to align text, adjust font sizes, change font types, and alter font colors. This flexibility ensures that documents can be customized to meet specific stylistic preferences or professional requirements. Additionally, users can easily clear formatting to reset their text to default settings, making it simple to start afresh.
+
+One of the standout features of Sourceduty Notepad V5.8 is its robust file operations capabilities. Users can create new files, open existing documents in a wide range of formats, and save their work in the desired format. Notably, the notepad includes options to save locked files using password protection and encryption, ensuring the security of sensitive information. The ability to encrypt selected files and save them with a .enc extension further enhances data protection. Users can also decrypt encrypted files using a key file, with decrypted content displayed directly in the text area for immediate access and editing.
+
+Sourceduty Notepad V5.8 is equipped with advanced template management functionalities, enabling users to load pre-defined templates for quick document creation. This feature is particularly useful for business and educational settings where standardized templates can save time and ensure consistency. Additionally, users can create and save their custom templates, making it easy to reuse document structures tailored to specific needs. The notepad also supports dark mode and light mode, allowing users to switch between themes to reduce eye strain or match personal preferences.
+
+The notepad’s utility is further enhanced by its ability to insert timestamps and manage micronotes. Users can insert the current date and time into their documents in customizable formats, which is beneficial for maintaining accurate records and timelines. The micronotes menu allows users to add, delete, and clear small notes or comments within their documents, facilitating better organization and annotation. Another valuable feature is the password generator, which creates secure passwords with customizable length and complexity, helping users enhance their security practices.
+
+Recent updates to Sourceduty Notepad V5.8 have repaired the Text Layout dropdown submenu and improved search highlights. The repaired Text Layout submenu now allows users to switch seamlessly between different column formats, enhancing the readability and organization of their documents. The search highlight functionality has also been fixed, enabling users to effectively search for and highlight specific words or phrases within their text. This improvement makes it easier to locate important information and ensures that critical details are not overlooked. Overall, Sourceduty Notepad V5.8 is a versatile and powerful tool designed to enhance productivity and document management.
+
+<br>
+
+```
+Format Conversion Table
+
++---------------------+---------------------------------+---------------------------------+
+| Opened Format       | Converts To .txt                | Can Export To                  |
++---------------------+---------------------------------+---------------------------------+
+| .txt (Text File)    | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .md (Markdown)      | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .docx (Word)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .pdf (PDF)          | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .csv (CSV)          | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .html (HTML)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .json (JSON)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+| .epub (ePub)        | .txt                            | .txt, .md (Markdown),          |
+|                     |                                 | .docx (Word Document),         |
+|                     |                                 | .pdf (PDF Document),           |
+|                     |                                 | .csv (CSV File),               |
+|                     |                                 | .html (HTML File),             |
+|                     |                                 | .json (JSON File)              |
++---------------------+---------------------------------+---------------------------------+
+```
+
+```
+Sourceduty Notepad V5.8
+
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
+
+Description:
+
+Features:
+
+Text Formatting:
+  - Align text (left, center, right, justify)
+  - Increase/decrease font size
+  - Change font type (e.g., Arial, Times New Roman, Courier)
+  - Change font color (supports RGB and HEX color codes)
+  - Clear formatting (reset to default)
+
+File Operations:
+  - New File: Create a new, blank document.
+  - Open File: Open an existing document in various formats (e.g., .txt, .docx, .rtf, .html, .md).
+  - Save File: Save the current document in the selected format.
+  - Save Locked File: Save the current document using a password and encryption.
+  - Encrypt File: Encrypt a selected file and save it with a .enc extension.
+  - Decrypt File: Decrypt a selected encrypted file using a key file and display its contents.
+  - Export File: Export the document to formats such as PDF, DOCX, HTML, or Markdown (.md).
+  - Import File: Import content from formats like CSV, JSON, XML, or Markdown (.md).
+  - Open and Merge File: Open another file and merge its content into the current document.
+  - Compare Files: Compare the content of two documents and highlight differences.
+
+Template Management:
+  - Load Templates: Load pre-defined templates for quick document creation.
+  - Add Custom Templates: Create and save your own templates for reuse.
+
+Dark Mode:
+  - Switch between dark mode and light mode to reduce eye strain or match user preferences.
+
+Timestamp Insertion:
+  - Insert the current date and time into the document with customizable formats (e.g., YYYY-MM-DD, MM/DD/YYYY).
+
+Micronotes Menu:
+  - Add Micronotes: Insert small notes or comments in the document.
+  - Delete Micronotes: Remove specific micronotes.
+  - Clear Micronotes: Remove all micronotes from the document.
+
+Password Generator:
+  - Generate Secure Passwords: Create passwords with customizable length and complexity (e.g., including special characters, numbers).
+
+CSV Export:
+  - Export document content or lists to CSV format for data handling and analysis.
+
+Document Statistics:
+  - Display Word Count: Count the number of words in the document.
+  - Character Count: Count the number of characters in the document.
+  - Line Count: Count the number of lines in the document.
+
+JSON Restore:
+  - Import and Restore: Import document content from a JSON file and restore the document to its previous state.
+
+Search Function:
+  - Find Text: Search for a specific word or phrase within the document.
+
+Tagging and Categorization:
+  - Tag Documents: Assign tags to documents for easier organization and retrieval.
+  - Categorize Documents: Categorize documents based on custom criteria (e.g., project, topic).
+
+Keyword Highlighting:
+  - Set Keywords: Define specific keywords to highlight throughout the document.
+  - Highlight Keywords: Automatically highlight occurrences of these keywords in the document.
+
+Topology:
+  - Convert to Topology: Format the current text into a hierarchical topological diagram.
+```
+
+
+<br>
+</details>
+
 #
 ### Related Links
 
