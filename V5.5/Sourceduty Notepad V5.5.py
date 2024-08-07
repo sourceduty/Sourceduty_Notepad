@@ -86,6 +86,7 @@ class TextEditor:
 
         self.create_menu()
         self.insert_default_description()
+        self.update_footer()  # Start updating the footer
 
     def create_menu(self):
         self.menu = tk.Menu(self.root)
@@ -375,7 +376,7 @@ class TextEditor:
         elapsed_time = time.time() - self.start_time
         minutes, seconds = divmod(int(elapsed_time), 60)
         self.dynamic_footer.config(text=f"Time Elapsed: {minutes}m {seconds}s")
-        self.root.after(1000, self.update_footer)
+        self.root.after(1000, self.update_footer)  # Schedule the update to run again after 1 second
 
     def dark_mode(self):
         self.text.config(bg="black", fg="white")
