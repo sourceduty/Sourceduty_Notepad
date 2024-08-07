@@ -438,6 +438,119 @@ Topology:
   - Convert to Topology: Format the current text into a hierarchical topological diagram.
 ```
 
+<details><summary>Sourceduty Notepad V5.8 Topology</summary>
+<br>
+
+```
+Sourceduty Notepad V5.8
+------------------------
+|
+|-- Graphical User Interface (GUI)
+|   |
+|   |-- Tkinter
+|       |-- Main Window
+|       |-- Menus
+|           |-- File Menu
+|               |-- New File
+|               |-- Open File
+|               |-- Open and Merge
+|               |-- Save File
+|               |-- Save Locked File
+|               |-- Export File (PDF, JSON, Excel, EPUB, DOCX, HTML)
+|               |-- Import File
+|               |-- Create Backup
+|               |-- Restore Backup
+|           |-- Edit Menu
+|               |-- Undo
+|               |-- Redo
+|               |-- Insert Timestamp
+|               |-- Insert Micronote
+|               |-- Clear Micronotes
+|               |-- Add Custom Template
+|               |-- Load Template
+|           |-- View Menu
+|               |-- Dark Mode
+|               |-- Light Mode
+|               |-- Set Single Column
+|               |-- Set Two Columns
+|               |-- Set Three Columns
+|               |-- Show Tagging and Categorization
+|               |-- Show Statistics
+|           |-- Options Menu
+|               |-- Show Options
+|               |-- Apply Options
+|           |-- Tools Menu
+|               |-- Compare Files
+|               |-- Search Word
+|               |-- Highlight Keywords
+|               |-- Generate Password
+|           |-- Help Menu
+|               |-- About
+|
+|-- File Handling
+|   |
+|   |-- File Open
+|   |-- File Save
+|   |-- File Export
+|       |-- Export to PDF
+|       |-- Export to JSON
+|       |-- Export to Excel
+|       |-- Export to EPUB
+|       |-- Export to DOCX
+|       |-- Export to HTML
+|   |-- File Import
+|       |-- Import PDF
+|       |-- Import EPUB
+|       |-- Import DOCX
+|       |-- Import CSV
+|       |-- Import JSON
+|
+|-- Text Processing
+|   |
+|   |-- Markdown Conversion
+|   |-- Text Diffing (Compare Files)
+|   |-- Text Search/Replace
+|   |-- Encryption/Decryption
+|       |-- Load or Generate Key
+|       |-- Encrypt File
+|       |-- Decrypt File
+|       |-- Ensure Cipher
+|
+|-- Document Management
+|   |
+|   |-- PDF Processing (PyMuPDF - fitz)
+|   |-- DOCX Processing (python-docx)
+|   |-- EPUB Processing (ebooklib)
+|
+|-- Data Handling
+|   |
+|   |-- CSV Handling (pandas)
+|   |-- JSON Handling
+|   |-- Excel Handling (pandas)
+|
+|-- Web Scraping
+|   |
+|   |-- HTML Parsing (BeautifulSoup)
+|
+|-- Utilities
+|   |
+|   |-- Random String Generation
+|   |-- Time-based Operations (Insert Timestamp)
+|   |-- OS Operations (os module)
+|
+|-- Additional Features
+|   |
+|   |-- Insert Micronotes
+|   |-- Insert Default Description
+|   |-- Create Text Layout Menu
+|   |-- Update Footer
+|   |-- Show Micronotes Menu
+|   |-- Export List
+|   |-- Import and Restore
+```
+
+<br>
+</details>
 
 <br>
 </details>
