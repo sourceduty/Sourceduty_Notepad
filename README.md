@@ -15,7 +15,7 @@ Overall, Sourceduty Notepad is a comprehensive text editing tool that combines e
 #
 ### Custom Note Templates
 
-Sourceduty Notepad V5.8 is equipped with advanced template management functionalities, enabling users to load pre-defined templates for quick document creation. This feature is particularly useful for business and educational settings where standardized templates can save time and ensure consistency. Additionally, users can create and save their custom templates, making it easy to reuse document structures tailored to specific needs. The notepad also supports dark mode and light mode, allowing users to switch between themes to reduce eye strain or match personal preferences.
+Sourceduty Notepad V5.8 is equipped with advanced template management functionalities, enabling users to load pre-defined templates for quick document creation. This feature is particularly useful for business and educational settings where standardized templates can save time and ensure consistency. Additionally, users can create and save their custom templates, making it easy to reuse document structures tailored to specific needs.
 
 #
 ### Versions
