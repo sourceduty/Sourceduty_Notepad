@@ -13,6 +13,11 @@ The user interface of Sourceduty Notepad is designed with flexibility and user c
 Overall, Sourceduty Notepad is a comprehensive text editing tool that combines ease of use with powerful features. Its ability to handle various file formats, manage custom templates, and provide advanced document analysis tools makes it an invaluable resource for professionals looking to enhance their productivity. Whether used for simple text editing or complex document management tasks, Sourceduty Notepad offers a robust solution that adapts to the evolving needs of its users.
 
 #
+### Custom Note Templates
+
+Sourceduty Notepad V5.8 is equipped with advanced template management functionalities, enabling users to load pre-defined templates for quick document creation. This feature is particularly useful for business and educational settings where standardized templates can save time and ensure consistency. Additionally, users can create and save their custom templates, making it easy to reuse document structures tailored to specific needs. The notepad also supports dark mode and light mode, allowing users to switch between themes to reduce eye strain or match personal preferences.
+
+#
 ### Versions
 
 <details><summary>Sourceduty Notepad V4.0</summary>
@@ -565,6 +570,10 @@ Sourceduty Notepad V5.8
 </details>
 
 #
+
+> Alex: "*V5.8 allows users to customize and load pre-defined plain text templates for quick note creation.*"
+
+#
 ### Related Links
 
 [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
@@ -572,6 +581,12 @@ Sourceduty Notepad V5.8
 [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 <br>
 [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
+<br>
+[Text Emulator](https://github.com/sourceduty/Text_Emulator)
+<br>
+[Dynamic Text Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
