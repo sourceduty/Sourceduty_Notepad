@@ -15,6 +15,8 @@ Overall, Sourceduty Notepad is a comprehensive text editing tool that combines e
 #
 ### Custom Note Templates
 
+![Notepad Templates](https://github.com/user-attachments/assets/5f5d7c6a-99b7-414b-a33f-b1c5b191f340)
+
 Sourceduty Notepad V5.8 is equipped with advanced template management functionalities, enabling users to load pre-defined templates for quick document creation. This feature is particularly useful for business and educational settings where standardized templates can save time and ensure consistency. Additionally, users can create and save their custom templates, making it easy to reuse document structures tailored to specific needs.
 
 #
