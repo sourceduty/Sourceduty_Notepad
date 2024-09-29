@@ -1,4 +1,4 @@
-# Sourceduty Notepad V2.0
+# Sourceduty Notepad V3.0
 # Copyright (C) 2023, Sourceduty 
 # This software is free and open-source; anyone can redistribute it and/or modify it.
 
