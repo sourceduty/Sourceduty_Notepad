@@ -585,7 +585,7 @@ Sourceduty Notepad V5.8
 #
 ### Protected Property
 
-The statement "This software is free and open-source; anyone can redistribute it and/or modify it" was erroneously included in earlier versions of this program. We want to clarify that this software is governed by a specific license that outlines the terms of use, redistribution, and modification. We encourage users to review the current license agreement to ensure compliance and to understand the rights and limitations associated with using this software. If you have any questions regarding the licensing terms, please refer to the official documentation or contact us directly for further clarification.
+The statement "This software is free and open-source; anyone can redistribute it and/or modify it" was erroneously included in earlier versions of this program. Alex wants to clarify that this software is governed by a specific license that outlines the terms of use, redistribution, and modification. Alex encourages users to review the current license agreement to ensure compliance and to understand the rights and limitations associated with using this software. If you have any questions regarding the licensing terms, please refer to the official documentation or contact Sourceduty directly for further clarification.
 
 #
 
