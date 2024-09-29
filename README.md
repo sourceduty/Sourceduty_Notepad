@@ -33,7 +33,15 @@ The enhanced customization and efficiency of the Templates feature also contribu
 #
 ### Versions
 
-<details><summary>Sourceduty Notepad V4.0</summary>
+<details><summary>V3.0-update</summary>
+<br>
+
+The Sourceduty Notepad V3.0 is a versatile and user-friendly text editor designed for Windows 11 users, featuring an integrated file navigation system that allows easy access to default library locations such as Pictures, Documents, Downloads, Music, Videos, and Desktop. It provides a streamlined interface with various modes for customizing the text editor's appearance, including White Mode, Dark Mode, and Blue Mode. The left panel displays a list of libraries and, upon selection, shows only .txt files in the chosen directory. Users can open and edit these text files directly within the editor, which supports standard text editing functionalities like undo, redo, cut, copy, paste, and find. The program also includes a range of predefined templates for quick document creation, and offers helpful menu options for navigating and managing files efficiently.
+
+<br>
+</details>
+
+<details><summary>V4.0</summary>
 <br>
 
 ![Sourceduty Notepad V4 0](https://github.com/user-attachments/assets/de2f1f12-59d0-4116-af16-80d8f8039125)
@@ -205,10 +213,7 @@ Inferences and Conclusions:
 <br>
 </details>
 
-<br>
-</details>
-
-<details><summary>Sourceduty Notepad V4.1</summary>
+<details><summary>V4.1</summary>
 <br>
 
 
@@ -225,7 +230,7 @@ Additionally, Sourceduty Notepad V4.1 introduces an Export List feature that enh
 <br>
 </details>
 
-<details><summary>Sourceduty Notepad V4.2</summary>
+<details><summary>V4.2</summary>
 <br>
 
 ![Sourceduty Notepad V4 2](https://github.com/user-attachments/assets/7f442be9-a324-4638-a0c0-ca227a1b75fe)
@@ -247,7 +252,7 @@ Sourceduty Notepad V4.2 takes these features even further, offering a more compr
 <br>
 </details>
 
-<details><summary>Sourceduty Notepad V4.5</summary>
+<details><summary>V4.5</summary>
 <br>
 
 ![Sourceduty Notepad V4 5](https://github.com/user-attachments/assets/ee78c356-7aa0-4b08-bc60-d2f12f826258)
@@ -265,7 +270,7 @@ In comparison, V4.2 lacked some of these advanced features and customization opt
 <br>
 </details>
 
-<details><summary>Sourceduty Notepad V5.0</summary>
+<details><summary>V5.0</summary>
 <br>
 
 ![Sourceduty Notepad V5 0](https://github.com/user-attachments/assets/0d24f716-89a9-40c6-ac85-017d429f0e15)
@@ -287,7 +292,7 @@ Finally, the expansion of the "Micronotes" feature in V5.0 addresses the needs o
 <br>
 </details>
 
-<details><summary>Sourceduty Notepad V5.5</summary>
+<details><summary>V5.5</summary>
 <br>
 
 ![Sourceduty Notepad V5 5](https://github.com/user-attachments/assets/8411858c-4711-442f-8d4d-212f1287b373)
@@ -303,7 +308,7 @@ The latest additions to Sourceduty Notepad V5.5 include advanced features such a
 <br>
 </details>
 
-<details><summary>Sourceduty Notepad V5.8</summary>
+<details><summary>V5.8</summary>
 <br>
 
 ![Sourceduty Notepad V5 8](https://github.com/user-attachments/assets/39542061-ebd0-4eea-9240-abf53e1efe84)
@@ -319,7 +324,7 @@ The notepad’s utility is further enhanced by its ability to insert timestamps 
 Recent updates to Sourceduty Notepad V5.8 have repaired the Text Layout dropdown submenu and improved search highlights. The repaired Text Layout submenu now allows users to switch seamlessly between different column formats, enhancing the readability and organization of their documents. The search highlight functionality has also been fixed, enabling users to effectively search for and highlight specific words or phrases within their text. This improvement makes it easier to locate important information and ensures that critical details are not overlooked. Overall, Sourceduty Notepad V5.8 is a versatile and powerful tool designed to enhance productivity and document management.
 
 <br>
-<details><summary>Sourceduty Notepad V5.8 Formats</summary>
+<details><summary>V5.8 Formats</summary>
 <br>
 
 ```
@@ -387,7 +392,7 @@ Format Conversion Table
 ```
 <br>
 </details>
-<details><summary>Sourceduty Notepad V5.8 Description</summary>
+<details><summary>V5.8 Description</summary>
 <br>
 
 ```
@@ -465,7 +470,7 @@ Topology:
 <br>
 </details>
 
-<details><summary>Sourceduty Notepad V5.8 Topology</summary>
+<details><summary>V5.8 Topology</summary>
 <br>
 
 ```
