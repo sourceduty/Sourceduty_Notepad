@@ -1,5 +1,5 @@
 # Sourceduty Notepad V3.0
-# Copyright (C) 2023, Sourceduty 
+# Copyright (C) 2024, Sourceduty 
 # This software is free and open-source; anyone can redistribute it and/or modify it.
 
 TEMPLATES = {
