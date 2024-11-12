@@ -39,8 +39,6 @@ Sourceduty Notepad does not currently include an autosave feature akin to Micros
 
 The classic Notepad, a simple text editor, was first launched in 1985 as part of Windows 1.0. Over the years, it remained largely unchanged, sticking to its minimalist design and functionality. In 2017, a new version of Notepad was introduced with some modern enhancements, including support for additional text encoding formats and performance improvements. However, it wasn't until 2023 that a significant new feature was added: Autosave. This feature, which automatically saves changes to open documents, was included to prevent data loss in case of unexpected shutdowns. While other updates have been made over time, such as UI tweaks and accessibility improvements, the addition of Autosave is the most significant new feature since the launch of the new Notepad. 
 
-This app was one of the longest-running unchanged apps in Windows, but it is not the absolute longest. While it remained largely unchanged for decades, other applications like the Windows Calculator and Paint also had long periods of minimal updates. 
-
 #
 ### Versions
 
