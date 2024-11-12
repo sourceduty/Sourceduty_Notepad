@@ -31,6 +31,13 @@ Moreover, the Templates feature offers significant customization flexibility. Us
 The enhanced customization and efficiency of the Templates feature also contribute to improved user experience by allowing personalization of documents to a higher degree. Users can apply their branding or organizational styles directly within templates, ensuring a professional and cohesive presentation across multiple documents. The flexibility and ease of use make the feature a vital component in simplifying document management and improving the overall workflow within the notepad program.
 
 #
+### Autosave
+
+![Autosave](https://github.com/user-attachments/assets/a7e27d93-8f0c-4722-be48-815f648bbf97)
+
+Sourceduty Notepad does not currently include an autosave feature akin to Microsoft's Notepad. However, integrating such a feature is technically feasible and could enhance the application's functionality. The concept of autosave itself is not protected by copyright and it was developed and introduced in other text editors by third-party developers. Copyright law safeguards the expression of ideas, such as specific code implementations, but not the underlying concepts or functionalities. Therefore, while the unique implementation of an autosave feature in a specific application may be protected, the general idea of autosaving is not.
+
+#
 ### Versions
 
 <details><summary>V3.0-update</summary>
