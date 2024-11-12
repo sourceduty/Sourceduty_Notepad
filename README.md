@@ -609,8 +609,6 @@ The statement "This software is free and open-source; anyone can redistribute it
 
 > Alex: "*V5.8 allows users to customize and load pre-defined plain text templates for quick note creation.*"
 
-> "*Windows Notepad didn't change for 38 years.*"
-
 #
 ### Related Links
 
