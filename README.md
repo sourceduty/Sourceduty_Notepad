@@ -41,8 +41,6 @@ The classic Notepad, a simple text editor, was first launched in 1985 as part of
 
 This app was one of the longest-running unchanged apps in Windows, but it is not the absolute longest. While it remained largely unchanged for decades, other applications like the Windows Calculator and Paint also had long periods of minimal updates. 
 
-> "*Don't change Notepad for 38 years.*"
-
 #
 ### Versions
 
@@ -610,6 +608,8 @@ The statement "This software is free and open-source; anyone can redistribute it
 #
 
 > Alex: "*V5.8 allows users to customize and load pre-defined plain text templates for quick note creation.*"
+
+> "*Windows Notepad didn't change for 38 years.*"
 
 #
 ### Related Links
